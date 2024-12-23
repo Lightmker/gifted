@@ -4,10 +4,10 @@ const fs = require('fs'),
       dotenv = fs.existsSync('config.env') ? require('dotenv').config({ path: '/.env' }) : undefined,
       convertToBool = (text, fault = 'true') => text === fault;
 
-global.caption = "*©𝟐𝟎𝟐𝟒 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 𝐕𝟓*"; // Input Yours custom...(Maintain font for Flow)
+global.caption = "*©𝓝𝓣𝓐𝓝𝓓𝓞 𝓜𝓓 𝓥1💙*"; // Input Yours custom...(Maintain font for Flow)
 global.api = "https://pikabotzapi.vercel.app/"; // DO NOT Change this...
 global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
-global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
+global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝓝𝓽𝓪𝓷𝓭𝓸 𝓜𝓓💙*"; // Input Yours custom...(Maintain font for Flow)
 global.myName = process.env.API_KEY;
 global.myDb = "https://pikabotzapi.vercel.app/"; // DO NOT Change this...
 global.ytdl = "https://ytdl.giftedtech.my.id";
@@ -24,11 +24,11 @@ AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by Gifted-Md!", // // Input Yours custom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254715206562", // Only 1 owner Number Here, others Add to sudo numbers...
-OWNER_NAME: process.env.OWNER_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇", // Input Yours custom...(Maintain font for Flow)
-PACK_AUTHOR: process.env.PACK_AUTHOR || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇", // Added // Input Yours custom...
-PACK_NAME: process.env.PACK_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃💜", // Added // Input Yours custom...
+OWNER_NAME: process.env.OWNER_NAME || "©𝓝𝓽𝓪𝓷𝓭𝓸 𝓜𝓓💙", // Input Yours custom...(Maintain font for Flow)
+PACK_AUTHOR: process.env.PACK_AUTHOR || "©𝓝𝓽𝓪𝓷𝓭𝓸 𝓜𝓓", // Added // Input Yours custom...
+PACK_NAME: process.env.PACK_NAME || "𝓝𝓣𝓐𝓝𝓓𝓞 𝓜𝓓 𝓥1💙", // Added // Input Yours custom...
 PREFIX: process.env.PREFIX || ".",
-API_KEY: process.env.API_KEY || "gifted-md", // Replace with your unlimited api key
+API_KEY: process.env.API_KEY || "𝓝𝓽𝓪𝓷𝓭𝓸 𝓜𝓓💙", // Replace with your unlimited api key
 // ANTIDELETE: process.env.ANTIDELETE || "false", // Still under development
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "false",
@@ -36,7 +36,7 @@ ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Activated by Gifted-Md. 📵 No Calls Allowed Dude!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
+BOT_NAME: process.env.BOT_NAME || "𝓝𝓣𝓐𝓝𝓓𝓞 𝓜𝓓 𝓥1💙", // Input Yours custom...(Maintain font for Flow)
 BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.my.id/file/gifted-md.jpg", // You can Replace with yours...
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
