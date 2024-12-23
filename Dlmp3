@@ -1,0 +1,12 @@
+{
+  "creator": "GiftedTech",
+  "status": 200,
+  "success": true,
+  "result": {
+    "type": "audio",
+    "quality": "128kbps",
+    "title": "Alan Walker - The Spectre (Lyrics)",
+    "thumbail": "https://i.ytimg.com/vi_webp/qHDJSRlNhVs/maxresdefault.webp",
+    "download_url": "https://cdn57.savetube.su/media/qHDJSRlNhVs/alan-walker-the-spectre-lyrics-128-ytshorts.savetube.me.mp3"
+  }
+}
