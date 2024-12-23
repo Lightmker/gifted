@@ -1,0 +1,12 @@
+{
+  "creator": "GiftedTech",
+  "status": 200,
+  "success": true,
+  "result": {
+    "duration": "3:11",
+    "quality": "128kbps",
+    "title": "Alan Walker - The Spectre (Lyrics)",
+    "thumbnail": "https://i.ytimg.com/vi/qHDJSRlNhVs/hq720.jpg",
+    "download_url": "https://apiv13dlp.cnvmp3.me/downloads/download.php?file=/qHDJSRlNhVs 128.mp3"
+  }
+}
