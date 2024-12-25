@@ -36,7 +36,7 @@ ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Activated by Gifted-Md. 📵 No Calls Allowed Dude!_*",
 AUTO_REACT: process.env.AUTO_REACT || "true",
-BOT_NAME: process.env.BOT_NAME || "ᴺᵗᵃⁿᵈᵒ ⱽ¹💙", // Input Yours custom...(Maintain font for Flow)
+BOT_NAME: process.env.BOT_NAME || "𝐋𝐀𝐃𝐘𝐁𝐔𝐆-𝐕𝟐❤️", // Input Yours custom...(Maintain font for Flow)
 BOT_PIC: process.env.BOT_PIC || "https://i.ibb.co/XFqmWhs/file-5885.jpg", // You can Replace with yours...
 AUTO_AUDIO: process.env.AUTO_AUDIO || "true",
 AUTO_BIO: process.env.AUTO_BIO || "false",
